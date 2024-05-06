@@ -58,6 +58,10 @@ bool Validate(const string &ipAddress)
         else if (isdigit(c))
         {
             num = num * 10 + (c - '0'); // Convert characters to integers
+            // Process:
+            //         1st : num = 0 * 10 + 2 = 2
+            //         2nd : num = 2 * 10 + 5 = 25
+            //         3rd : num = 25 * 10 + 5 = 255 (Final Limit)
         }
         else
         {
