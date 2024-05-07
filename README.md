@@ -1,8 +1,17 @@
 # Competitive-Programming
 My CP All Solved Problems Collection!
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finferiorak%2FCompetitive-Programming&title=Visitors&edge_flat=false"/>
-<br>
+<p align="center">
+  <img src="https://img.shields.io/github/license/InferiorAK/Competitive-Programming?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/InferiorAK/Competitive-Programming?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/InferiorAK/Competitive-Programming?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/InferiorAK/Competitive-Programming?color=teal&style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-InferiorAK-blue?style=flat-square">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FCompetitive-Programming&title=Visitors&edge_flat=false"/></a>
+</p>
 
 Keywords:
 cp, competitive programming, codervai, codeforces, 2024, coding, c++
