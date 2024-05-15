@@ -39,27 +39,26 @@ int main()
 {
     int n;
     cin >> n;
-
-    bool present[1001] = {false}; // Array to mark presence of numbers 1 to 1000
-
-    int a;
+    int arr[n];
+    int max = 0;
     for (int i = 0; i < n; i++)
     {
-        cin >> a;
-        if (1 <= a && a <= 1000)
+        cin >> arr[i];
+        if (arr[i] > max)
         {
-            present[a] = true; // Mark the number as present
+            max = arr[i];
         }
     }
-
-    for (int i = 1; i <= 1000; i++)
+    sort(arr, arr + n);
+    int min_ex = 1;
+    for (int i = 0; i < n; i++)
     {
-        if (!present[i]) // Find the missing number
+        if (arr[i] == min_ex)
         {
-            cout << i << endl;
-            return 0;
+            min_ex++;
+            // cout << arr[i] << " " << mex << endl;
         }
     }
-
+    cout << min_ex;
     return 0;
 }
