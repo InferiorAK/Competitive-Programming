@@ -10,7 +10,7 @@ My CP All Solved Problems Collection!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-InferiorAK-blue?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FCompetitive-Programming&title=Visitors&edge_flat=false"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=InferiorAK.Competitive-Programming" alt="Visitors">
 </p>
 
 Keywords:
